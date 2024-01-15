@@ -1,0 +1,14 @@
+.cart-button {
+    position: relative;
+}
+
+.cart-count {
+    position: absolute;
+    top: -8px; /* Adjust this value to position the number correctly */
+    right: 65px;
+    background-color: red;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 50%;
+    font-size: 12px;
+}
